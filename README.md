@@ -29,7 +29,7 @@ search for JBoss Tools and install
 
 4)Right now we are download all dependencies 
 
-select Projet Explorer> Click right button on project and select >Maven>Update Project.
+select Projet Explorer> Click right button on project  >Maven>Update Project.
 
 
 5)With perspective JEE in Project Explorer >click right button on project and select Run AS>Run on Server then choose WildFly11 >Next
