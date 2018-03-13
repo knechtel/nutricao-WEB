@@ -5,7 +5,7 @@
 
 2)Install  JBOSS tools
 
-->Help->Eclipse marketplace
+2.1)->Help->Eclipse marketplace
 
 select JBoss Tools
 
@@ -15,7 +15,8 @@ select JBoss Tools
 </br>
 
 
-3)Click right button and select import
+
+3)Perspective JEE select Project Explore then click right button and select import
 
 3.1)Choose git Project from Git
 
