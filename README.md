@@ -40,7 +40,7 @@ With perspective JEE in Project Explorer >click right button on project and sele
 <img src='https://3.bp.blogspot.com/-IEa2mJ4U-N0/Wqcu1C6r0eI/AAAAAAAADI4/ZMdXzIrkPos5x-sKy1U8Ba9BFi7BA97GACLcBGAs/s1600/Screen%2BShot%2B2018-03-12%2Bat%2B22.51.27.png'/>
 </br>
 
-5.1)Set the path for you WildFliy and make a download on the link just like a picture below shows
+5.1)Set the path for your WildFliy and make a download on the link just like a picture below shows
 
 <br>
 <img src='https://2.bp.blogspot.com/-np81tFjRKus/WqcxJ_UAsUI/AAAAAAAADJE/ndAgcGf4CTgq_fDXG5Bb1pFMCaXc0w9WQCLcBGAs/s1600/Screen%2BShot%2B2018-03-12%2Bat%2B23.01.32.png'/>
