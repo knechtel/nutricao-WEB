@@ -27,7 +27,7 @@ search for JBoss Tools and install
 3.2) Done!
 
 
-4)Click right button on project and select >Maven>Update Project.
+4)select Projet Explorer> Click right button on project and select >Maven>Update Project.
 
 
 5)With perspective JEE in Project Explorer >click right button on project and select Run AS>Run on Server then choose WildFly11 >Next
