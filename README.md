@@ -42,7 +42,7 @@ With perspective JEE in Project Explorer >click right button on project and sele
 
 5.1)Set the path for your WildFliy and make a download on the link just like a picture below shows
 
-here we need put path Home directory then download runtime.
+Here we need put path Home directory then download runtime.
 
 <br>
 <img src='https://2.bp.blogspot.com/-np81tFjRKus/WqcxJ_UAsUI/AAAAAAAADJE/ndAgcGf4CTgq_fDXG5Bb1pFMCaXc0w9WQCLcBGAs/s1600/Screen%2BShot%2B2018-03-12%2Bat%2B23.01.32.png'/>
