@@ -3,7 +3,7 @@
 
 1)Download last version eclipse IDE for JAVAEE
 
-2)Install  JBOSS tools
+2)Install plugin JBOSS tools
 
 >Help->Eclipse marketplace
 
