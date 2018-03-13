@@ -16,7 +16,7 @@ search for JBoss Tools and install
 
 
 
-3)Perspective JEE select Project Explore then click right button and select import
+3)Perspective JEE select Project Explorer then click right button and select import
 
 3.1)Choose git Project from Git
 
