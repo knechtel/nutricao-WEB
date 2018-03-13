@@ -5,8 +5,9 @@
 
 2)Install  JBOSS tools
 
-2.1)->Help->Eclipse marketplace
+>Help->Eclipse marketplace
 
+select logo RedHat then
 search for JBoss Tools and install
 
 
