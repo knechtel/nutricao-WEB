@@ -33,7 +33,9 @@ search for JBoss Tools and install
 select Projet Explorer> Click right button on project  >Maven>Update Project.
 
 
-5)With perspective JEE in Project Explorer >click right button on project and select Run AS>Run on Server then choose WildFly11 >Next
+5)Configure web server
+
+With perspective JEE in Project Explorer >click right button on project and select Run AS>Run on Server then choose WildFly11 >Next
 <br>
 <img src='https://3.bp.blogspot.com/-IEa2mJ4U-N0/Wqcu1C6r0eI/AAAAAAAADI4/ZMdXzIrkPos5x-sKy1U8Ba9BFi7BA97GACLcBGAs/s1600/Screen%2BShot%2B2018-03-12%2Bat%2B22.51.27.png'/>
 </br>
