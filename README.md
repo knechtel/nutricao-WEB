@@ -15,7 +15,7 @@ search for JBoss Tools and install
 <img src='https://1.bp.blogspot.com/-sUiJqolN5Rs/WqcovbiOgcI/AAAAAAAADII/2HZBLGhjnmk6pM2_GHvAleJ5lp_i0uf-wCLcBGAs/s320/jboss.png'/>
 </br>
 
-
+wait for the plugin to be installed.
 
 3)Perspective JEE select Project Explorer then click right button and select import
 
