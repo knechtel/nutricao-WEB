@@ -7,7 +7,7 @@
 
 2.1)->Help->Eclipse marketplace
 
-select JBoss Tools
+search for JBoss Tools and install
 
 
 <br>
