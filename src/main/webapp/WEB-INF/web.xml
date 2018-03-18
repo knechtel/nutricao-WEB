@@ -4,4 +4,20 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+
+
+
+  <!--  login filter -->
+  <filter>
+      <filter-name>LoginFilter</filter-name>
+      <filter-class>br.com.nutricao.filter.LoginFilter</filter-class>    
+  </filter>
+  <filter-mapping>
+      <filter-name>LoginFilter</filter-name>
+      <url-pattern>/portal/*</url-pattern>
+  </filter-mapping>
+  
+ 
+
+
 </web-app>
