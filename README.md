@@ -1,5 +1,8 @@
 # nutricao-WEB
 
+technologies used: CDI, JSF, EJB, hibernate and Web server wildfly 11
+
+Right now:
 
 1)Download last version eclipse IDE for JAVAEE
 
